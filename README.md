@@ -25,7 +25,7 @@ Note that resulting accuracy is highly dependent on the quality of the hardware 
 
 ### Distortion, Noise, and Dynamic Range
 
-![Distortion, Noise, and Dynamic Range](./examples/snapshots/uaa_gui_thdn_snr_sfdr.png?raw=true "Distortion, Noise, and Dynamic Range)
+![Distortion, Noise, and Dynamic Range](./examples/snapshots/uaa_gui_thdn_snr_sfdr.png?raw=true "Distortion, Noise, and Dynamic Range")
 
 ### Frequency Response
 
