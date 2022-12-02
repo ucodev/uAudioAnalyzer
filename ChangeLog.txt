@@ -1,0 +1,4 @@
+v0.01a (2022-12-02):
+
+ - First public PoC version released
+

@@ -1,0 +1,22 @@
+{
+    "common": {
+        "test_freqs": [
+	    17, 27, 37, 47, 57, 67, 77, 87, 97,
+	    147, 197, 297, 397, 497, 597, 697, 797, 897, 997,
+	    1497, 1997, 2997, 3997, 4997, 5997, 6997, 7997, 8997, 9997,
+            11997, 13997, 15997, 17997, 19997,
+            20947
+        ]
+    },
+    "aaa": {
+        "modes": [
+	    [ "td", "vrms", "fdm", "fftnf", "thd", "thdn", "snr", "sfdr", "fr", "peaks", "meas" ],
+	    [ "fdm", "fftnf", "thd", "thdn", "snr", "sfdr", "fr", "peaks", "meas" ],
+	    [ "fftnf", "thd", "thdn", "snr", "sfdr" ],
+	    [ "fr" ],
+	    [ "fdm", "fdp", "fftnf", "thd", "thdn", "snr", "sfdr", "fr", "peaks", "meas" ]
+    	],
+	"mode_default": 1
+    }
+}
+

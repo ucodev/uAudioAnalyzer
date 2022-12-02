@@ -1,0 +1,5 @@
+uaa_app/__pycache__
+uaa_config/__pycache__
+uaa_core/__pycache__
+uaa_ui/__pycache__
+tests/
